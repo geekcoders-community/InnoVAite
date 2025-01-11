@@ -11,7 +11,7 @@ Welcome to the **InnovAIte** repository! This repo contains all the essential re
    - Explore and run the ML models to deepen your understanding of Machine Learning concepts.  
 
 2. **Event Presentation**  
-   - **`InnovAIte_Event_Presentation.pptx`**: The official presentation used during the event.  
+   - **`InnovAIte_Event_Presentation.pdf`**: The official presentation used during the event.  
    - Recap the key topics and ideas shared during the session.
 
 3. **Data Analysis Documentation**  
