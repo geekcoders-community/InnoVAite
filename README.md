@@ -7,7 +7,7 @@ Welcome to the **InnovAIte** repository! This repo contains all the essential re
 ## 📂 Repository Contents  
 
 1. **Machine Learning Notebook**  
-   - A complete Jupyter Notebook (`ML_Notebook.ipynb`) with all the code used in the event.  
+   - A complete Jupyter Notebook (`hands_on.ipynb`) with all the code used in the event.  
    - Explore and run the ML models to deepen your understanding of Machine Learning concepts.  
 
 2. **Event Presentation**  
